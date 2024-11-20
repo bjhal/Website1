@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HomePage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bjhal401\\Desktop\\Website1\\chansey.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chansey.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bjhal401\\Desktop\\Website1\\charizard.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:charizard.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bjhal401\\Desktop\\Website1\\BusinessPlan.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessPlan.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -26,34 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "charizard.htm",
-              "DocumentMoniker": "C:\\Users\\bjhal401\\Desktop\\Website1\\charizard.htm",
-              "RelativeDocumentMoniker": "charizard.htm",
-              "ToolTip": "C:\\Users\\bjhal401\\Desktop\\Website1\\charizard.htm",
-              "RelativeToolTip": "charizard.htm",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-20T19:49:22.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "chansey.htm",
-              "DocumentMoniker": "C:\\Users\\bjhal401\\Desktop\\Website1\\chansey.htm",
-              "RelativeDocumentMoniker": "chansey.htm",
-              "ToolTip": "C:\\Users\\bjhal401\\Desktop\\Website1\\chansey.htm",
-              "RelativeToolTip": "chansey.htm",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-20T19:41:25.859Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -62,14 +28,14 @@
               "RelativeDocumentMoniker": "HomePage.html",
               "ToolTip": "C:\\Users\\bjhal401\\Desktop\\Website1\\HomePage.html",
               "RelativeToolTip": "HomePage.html",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEwAAAA4AAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGUAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-18T19:23:12.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BusinessPlan.html",
               "DocumentMoniker": "C:\\Users\\bjhal401\\Desktop\\Website1\\BusinessPlan.html",
               "RelativeDocumentMoniker": "BusinessPlan.html",
